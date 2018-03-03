@@ -30,6 +30,8 @@ It doesn’t separate code from data and templates. Right now they’re all smoo
 
 It’s available via the Unlicense, which means you can do whatever. I’d recommend choosing a different name, just so there’s no confusion, of course.
 
+I’m not taking pull requests, in other words — fork it and finish it yourself. :)
+
 ## Note about the code
 
 I’m an Objective-C and Swift developer writing Ruby code. I made some effort to create idiomatic Ruby code, but it probably shows that I’m not an experienced Rubyist.
