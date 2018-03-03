@@ -1,0 +1,12 @@
+<%= erb :header, :locals => locals %>
+
+<form method="post">
+<textarea autofocus required rows="10" name="post_text" wrap="soft"></textarea><br />
+<input type="submit" value="Publish">
+</form>
+
+<h4>Recent posts</h4>
+
+<%= recent_posts %>
+
+<%= erb :footer %>

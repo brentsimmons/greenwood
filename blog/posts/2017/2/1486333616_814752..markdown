@@ -1,0 +1,2 @@
+@date_time_posted 1486333616.814752
+Looks like Markdown doesn’t do auto-linking, so links have to be done by hand. [http://inessential.com/](http://inessential.com/)
